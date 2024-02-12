@@ -1,0 +1,10 @@
+{
+   "name": "Jenkins",
+   "type": "jenkins",
+   "url": "https://IdeyaLabs.com",
+   "buildOrder": 1,
+   "buildName": "Allure Report Customize | IdeyaLabs",
+   "buildUrl": "https://IdeyaLabs.com",
+   "reportUrl": "https://IdeyaLabs.com",
+   "reportName": "Allure Report Customize | IdeyaLabs"
+}
